@@ -1,0 +1,13 @@
+#### PLEASE FOLLOW THE FOLLOWING INSTRUCTIONS CAREFULLY###
+
+1. Use Tomcat version 8.0.38 and Java SE 1.8.0_144
+
+2. In the Controller package all the actions should follow the same format(naming and structure), check ExampleAction.
+
+3. In the DataBean package all beans should follow the same format(naming and structure), check User. All beans should override the equals method. User is just an example, we will delete it later.
+
+4. All Forms should follow the LoginForm format(naming and structure). LoginForm is an example.
+
+5. All DAO's follow the UserDAO structure. UserDAO is an example.
+
+6. The names of all actions end with '.do' . For example: havesex.do (These are not the file names but the action names)
