@@ -10,4 +10,4 @@
 
 5. All DAO's follow the UserDAO structure. UserDAO is an example.
 
-6. The names of all actions end with '.do' . For example: havesex.do (These are not the file names but the action names)
+6. The names of all actions end with '.do' . For example: havefood.do (These are not the file names but the action names)
